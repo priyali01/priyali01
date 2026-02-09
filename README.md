@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyali Chaudhari</h1>
 <h3 align="center">Full-Stack Developer from India, building web applications and exploring Machine Learning</h3>
 
-
-- 🔭 I’m currently working on [Dementia-Detection_app](https://github.com/priyali01/dementia-detection-app)
-
 - 🌱 I’m currently learning **Next.js, Machine Learning & advanced backend concepts**
 
 - 💬 Ask me about **Frontend development, backend APIs, React, Next.js & GSAP animations**
