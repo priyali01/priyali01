@@ -1,26 +1,88 @@
 <h1 align="center">Hi 👋, I'm Priyali Chaudhari</h1>
 <h3 align="center">Full-Stack Developer from India, building web applications and exploring Machine Learning</h3>
 
-- 🌱 I’m currently learning **Next.js, Machine Learning & advanced backend concepts**
-
-- 💬 Ask me about **Frontend development, backend APIs, React, Next.js & GSAP animations**
-
-- 📫 How to reach me **priyalichaudhari20@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10r54rnbKnOb9DASLK6DP7WTz0iRYUtoQ/view?usp=sharing](https://drive.google.com/file/d/10r54rnbKnOb9DASLK6DP7WTz0iRYUtoQ/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyali chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyali chaudhari" height="30" width="40" /></a>
-<a href="https://instagram.com/priiyalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priiyalii" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/priyali_chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priyali_chaudhari" height="30" width="40" /></a>
+<p align="center">
+  🚀 I’m currently learning <strong>Next.js, advanced Backend concepts, and Machine Learning</strong><br>
+  💬 Ask me about <strong>Frontend development, Backend APIs, React, Next.js & GSAP animations</strong><br>
+  📫 How to reach me: <strong>priyalichaudhari20@gmail.com</strong><br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyali01&show_icons=true&locale=en&layout=compact" alt="priyali01" /></p>
+### 🔗 Connect with me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyali01&show_icons=true&locale=en" alt="priyali01" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyali-chaudhari/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/priiyalii" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://codeforces.com/profile/priyali_chaudhari" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://github.com/priyali01" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyali01&" alt="priyali01" /></p>
+---
+
+## 🛠 Technologies & Tools
+
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /></a>
+  <a href="https://www.chartjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-plain.svg" width="40" height="40" alt="Chart.js" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=priyali01&theme=radical" alt="Priyali's GitHub Streak" />
+</p>
+
+---
+
+## 📄 Resume
+
+👇 You can view/download my resume here:
+
+🔗 https://drive.google.com/file/d/10r54rnbKnOb9DASLK6DP7WTz0iRYUtoQ/view?usp=sharing
+
+---
+
+## 💡 About Me
+
+I’m a Full-Stack Developer passionate about building user-friendly experiences. I enjoy solving real-world problems using:
+
+- Fast, responsive web interfaces  
+- Dynamic backend systems  
+- Modern development tools and frameworks  
+
+I’m currently diving deeper into **Next.js**, **Machine Learning**, and **advanced backend development** to level up my skills even more 🚀
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: priyalichaudhari20@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/priyali-chaudhari/
+
+---
+
+✨ **Let’s build something awesome together!** ✨
+
